@@ -1,3 +1,4 @@
+![logo](https://github.com/SeolheeKim7/SeolheeKim7/blob/main/github%20new%20banner.png)
 <h1 align="center">Hello 👋, I'm Seolhee KiM</h1>
 <h3 align="center">A passionate developer from Niagara falls</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
