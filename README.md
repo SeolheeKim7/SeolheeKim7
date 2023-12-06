@@ -8,7 +8,7 @@
 - 🔭 I’m currently studying Computer programming and analysis in Niagara College
 - 🌱 I’m currently learning **C, React**
 - 📝 I regularly write articles on [https://seolheelife.wordpress.com/](https://seolheelife.wordpress.com/)
-- 📫 How to reach me **skim163@ncstudents.niagaracollege**
+- 📫 How to reach me **skim163@ncstudents.niagaracollege.ca**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
