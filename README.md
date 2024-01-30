@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seolheekim7&label=Profile%20views&color=0e75b6&style=flat" alt="seolheekim7" /> </p>
 
 - 🔭 I’m currently studying Computer programming and analysis in Niagara College
-- 🌱 I’m currently learning **C, React**
+- 🌱 I’m currently learning **Langchain, GPT-4, FastAPI**
 - 📝 I regularly write articles on [https://seolheelife.wordpress.com/](https://seolheelife.wordpress.com/)
 - 📫 How to reach me **skim163@ncstudents.niagaracollege.ca**
 
